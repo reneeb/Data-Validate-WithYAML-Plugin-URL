@@ -7,9 +7,7 @@ use Carp;
 
 use Regexp::Common qw(URI);
 
-=head1 NAME
-
-Data::Validate::WithYAML::Plugin::URL - Plugin to check URL
+# ABSTRACT: Plugin to check URL
 
 =head1 VERSION
 
@@ -78,7 +76,7 @@ You can find documentation for this module with the perldoc command.
 Copyright 2011 Renee Baecker, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+under the terms of Artistic License 2.0
 
 =cut
 
